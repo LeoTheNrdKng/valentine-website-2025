@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Damn... I feel so lucky 😂🎉💝💖💝💓",
-        message: "I can never stop worshipping you... Wooow!!!! I don't think I want to... 💝💖💝",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Damn... I feel so lucky 😂🎉💓",
+        message: "I can never stop worshipping you... Wooow!!!! I don't think I want to... 💖",
+        emojis: "🎁💖🤗"  // These will bounce around
     },
 
     // Color scheme for the website
